@@ -1,0 +1,5 @@
+export const commonData = {
+  baseURL: "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  dashboardUrl:
+    "https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index",
+};
